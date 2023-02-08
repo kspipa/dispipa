@@ -1,2 +1,2 @@
 # dispipa
-Discord music bot. Created with @Solighol
+Discord music bot. Created with @Soligho1
